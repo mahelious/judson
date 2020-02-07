@@ -15,7 +15,7 @@ class Librarian
     const TAG_PRIMARY               = 'acoustid';
     const COMMENT_TAG_ALBUMARTIST   = 'albumartist';
     const COMMENT_TAG_ALBUMARTIST2  = 'band';
-    const COMMENT_TAG_ALBUMARTIST3  = 'band';
+    const COMMENT_TAG_ALBUMARTIST3  = 'artist';
     const COMMENT_TAG_ALBUM         = 'album';
     const COMMENT_TAG_TRACK         = 'track_number';
     const COMMENT_TAG_TITLE         = 'title';
